@@ -1,0 +1,9 @@
+﻿Abstraction is the process of hiding the internal details of an application from the outer world. 
+Abstraction is used to describe things in simple terms. 
+It’s used to create a boundary between the application and the client programs.
+
+
+Objects are the building blocks of Object-Oriented Programming. 
+An object contains some properties and methods. We can hide them from the outer world through access modifiers. 
+We can provide access only for required functions and properties to the other programs. 
+This is the general procedure to implement abstraction in OOPS.

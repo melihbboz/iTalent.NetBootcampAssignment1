@@ -1,0 +1,4 @@
+﻿Polymorphism is an object-oriented programming concept that refers to the ability of a variable, function, or object to take on multiple forms. 
+In a programming language exhibiting polymorphism, 
+class objects belonging to the same hierarchical tree 
+(inherited from a common parent class) may have functions with the same name, but with different behaviors.

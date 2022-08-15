@@ -1,0 +1,6 @@
+﻿To understand inheritance, we need to focus on two types of classes: Sub Class and Super Class.
+
+Sub Class, also known as Derived Class, it is a class that inherits the property, and Super Class is also known as Base Class; 
+it is a class from which properties are inherited. 
+In some concerns, Sub Class is known as child class, and the superclass is known as parent class. 
+So, till now, it is obvious that the subclass, i.e. child class, inherits properties from the superclass, i.e. parent class.
